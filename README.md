@@ -4,14 +4,15 @@
 
 ### Project Description
 This aim of this project is to perform exploratory data analysis on life expectancy and adult mortality from 2004 to 2014 in the regions of Asia, Africa, Europe, North America, Central America, South America and the Caribbean.  
-The below research questions were aimed at being anwered:
+The below research questions were aimed at being answered:
 - How life expectancy and mortality was affected by the following parameters:
 Population
 BMI(body mass index)
 Alcohol consumption
 Education
 GDP (Gross domestic product)
-- How do these parameters change in the given countries, what is the correlation between them? 
+- How do these parameters change in the given countries
+- What is the correlation between them? 
 - What may possibly affects them changing?
 - Can any trend be observed? If so what is the trend? 
 
@@ -34,9 +35,4 @@ This project is a collaboration between Gwendoline Grenu, Temitope Ajose-Adeogun
 Along with the dataset from Kaggle, we used the following sources to aid us in performin the analysis and written writeup of the results
 - Stack Overflow
 - Google search
-- 
-
-### License
-No license selected as of today.
-
 
